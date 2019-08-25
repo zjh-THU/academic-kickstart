@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Welcome to Zhang Jianhui' Academic&Tech Home!"
+title = "Welcome to Zhang Jianhui'' Academic&Tech Home!"
 subtitle = ""
 
 [design]
@@ -68,12 +68,13 @@ subtitle = ""
 
 # **To remove this section, delete `content/home/demo.md`.**
 # {{% /alert %}}
-
+# Welcome to the **Academic Kickstart** template!
++++
 # I love Gaochenyang 
 
-# Welcome to the **Academic Kickstart** template!
+
  
-+++
+
 
 
 
