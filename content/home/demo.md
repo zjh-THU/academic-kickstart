@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Kickstart"
+title = "Welcome to Zhang Jianhui' Academic&Tech Home!"
 subtitle = ""
 
 [design]
@@ -46,6 +46,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
+ # this is previous version
  # Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
 
 # For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
@@ -67,11 +68,13 @@ subtitle = ""
 
 # **To remove this section, delete `content/home/demo.md`.**
 # {{% /alert %}}
+
+# I love Gaochenyang 
+
+# Welcome to the **Academic Kickstart** template!
  
 +++
 
-I love Gaochenyang 
 
-Welcome to the **Academic Kickstart** template!
 
 
