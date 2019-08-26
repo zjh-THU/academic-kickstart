@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "zjh17@mails.tsinghua.edu.cn".
+  link: "mailto:zjh17@mails.tsinghua.edu.cn"  # For a direct email link, use "zjh17@mails.tsinghua.edu.cn".
 # - icon: twitter
 # icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
