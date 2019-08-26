@@ -70,4 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Zhang Jianhui is a Postgraduate Student of Energy Engineering at Tsinghua University. His research interests include solid oxide fuel cell(SOFC), fluid mechanics and nonlinear. 
+Zhang Jianhui is a Postgraduate Student of Energy Engineering at Tsinghua University. His research interests include solid oxide fuel cell(SOFC), fluid mechanics and nonlinear. His current work focus on how microjets improve combustion stability under flameout limit in combustion chamber, using partial-averaged-based turbulence model to calculate strongly swirling flow and utilizing machine learning to establish the substitution model. Previously, he has participated in Chinese Gas Turbine Major Project and finished the database and analysis of combustor nozzle test. During college, he studied nonlinear waves(soliton, breather and rogue wave) and modulational instability based on nonlinear Schrödinger equations. He specializes in the combination of physical understanding, mathematical modeling and programming to solve physics and engineering problems.
+When he was in high school, haze enveloped many cities in China, including his hometown. Under the inspiration from his father, a coal mine engineer, he decided to devote himself to clean energy. On holidays, he went underground in a kilometer-deep mine or climbed to the top of a circulating fluidized bed boiler. He has a deep understanding of  Chinese traditional energy.
+During graduate vacations, he investigated the production of power batteries in Contemporary Amperex Technology Co. Limited, investigated the rural gas shortage in Hebei province, studied biomass pyrolysis and supercritical carbon dioxide (sCO2) cycle. He explored the prospects of new energy technologies in terms of operational stability, environmental pollution and application scale.
+His dream: a hydrogen powered world, sustainable and pollution-free.
+
