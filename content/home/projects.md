@@ -71,6 +71,9 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
+[[project]] 
+title = "Tsinghua University" 
+
 [advanced]
  # Custom CSS. 
  css_style = "233"
