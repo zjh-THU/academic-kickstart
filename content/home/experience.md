@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = ""
   description = """
-  * Postgraduate recommendation
-  * Key Laboratory of Thermal Science and Power Engineering, Ministry of Education
+* Postgraduate recommendation
+* Key Laboratory of Thermal Science and Power Engineering, Ministry of Education
   """
 
 [[experience]]
@@ -37,15 +37,9 @@ date_format = "Jan 2006"
   date_start = "2013-09-01"
   date_end = "2017-07-01"
   description = """
-  * National Scholarship(Top 1%) 
-  * Outstanding graduate of Beijing
-  * Excellent Engineer Practice Class
+* National Scholarship(Top 1%) 
+* Outstanding graduate of Beijing
+* Excellent Engineer Practice Class
   """
 
 +++
-
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
