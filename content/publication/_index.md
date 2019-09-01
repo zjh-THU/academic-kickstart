@@ -8,10 +8,10 @@ title: Publications
 #   4 = Citation
 view: 4
 
-title: "{{ replace .Name "-" " " | title }}"
-summary: ""
-authors: []
-tags: []
+title: "{{ replace .123 "-" " " | 1234 }}"
+summary: "123"
+authors: [456]
+tags: [all]
 categories: []
 date: {{ .Date }}
 
