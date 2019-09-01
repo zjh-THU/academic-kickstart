@@ -8,6 +8,13 @@ title: Publications
 #   4 = Citation
 view: 4
 
+title: "{{ replace .Name "-" " " | title }}"
+summary: ""
+authors: []
+tags: []
+categories: []
+date: {{ .Date }}
+
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
