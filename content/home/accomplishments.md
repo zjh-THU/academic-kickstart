@@ -29,6 +29,16 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
+  organization = "The Chinese Mathematical Society"
+  organization_url = "http://www.cmathc.cn/"
+  title = "National Third Prize in 9th National University Student Contest on Energy Saving and Emission Reduction"
+  url = ""
+  certificate_url = 
+  date_start = "2015-11-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
