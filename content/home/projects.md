@@ -30,8 +30,8 @@ subtitle = ""
      tag = "Nonlinear"
   
    [[content.filter_button]]
-     name = "Fluid&Combustion"
-     tag = "Fluid&Combustion"
+     name = "Fluid and Combustion"
+     tag = "Fluid and Combustion"
 
    [[content.filter_button]]
      name = "Biomass"
