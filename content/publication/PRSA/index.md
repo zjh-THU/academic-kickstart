@@ -4,7 +4,7 @@ authors:
 - admin
 - Wang Lei
 - Liu Chong
-date: "2017-02-03T00:00:00Z"
+date: "2016-09-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2016.0681'
+url_pdf: https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2016.0681
 url_code: ''
 url_dataset: ''
 url_poster: ''
