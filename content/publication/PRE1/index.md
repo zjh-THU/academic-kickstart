@@ -1,8 +1,10 @@
 ---
-title: "Breather-to-soliton transitions, nonlinear wave interactions, and modulational instability in a higher-order generalized nonlinear Schr?dinger equation"
+title: "Breather-to-soliton transitions, nonlinear wave interactions, and modulational instability in a higher-order generalized nonlinear Schrodinger equation"
 authors:
 - admin
-- Robert Ford
+- Lei Wang
+- Zi-Qi Wang
+- et al
 date: "2015-09-26T00:00:00Z"
 doi: ""
 
@@ -19,10 +21,10 @@ publication_types: ["2"]
 publication: "*Physical Review E 93*(1): 012214"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We study the nonlinear waves on constant backgrounds of the higher-order generalized nonlinear Schrodinger (HGNLS) equation describing the propagation of ultrashort optical pulse in optical ﬁbers. We derive the breather, rogue wave, and semirational solutions of the HGNLS equation. Our results show that these three types of solutions can be converted into the nonpulsating soliton solutions.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -31,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://journals.aps.org/pre/pdf/10.1103/PhysRevE.93.012214
 url_code: ''
 url_dataset: ''
 url_poster: ''
