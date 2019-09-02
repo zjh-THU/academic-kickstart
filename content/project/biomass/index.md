@@ -1,6 +1,6 @@
 ---
 title: Co-pyrolysis of Biomass with polymer wastes
-summary: Investigated the interactions among biomass (tobacco stalk) and typical polymers (scrap tire, polypropylene and polyvinyl chloride) during co-pyrolysis using Thermogravimetric analyzer coupled with Fourier transform infrared spectrometer, and Conducted the kinetic analysis to present the main decomposition stage based on first-order reaction model
+summary: Investigated the interactions among tobacco stalk and typical polymers during co-pyrolysis using Thermogravimetric analyzer coupled with Fourier transform infrared spectrometer and Conducted the kinetic analysis.
 tags:
 - Biomass
 date: "2019-04-27T00:00:00Z"
