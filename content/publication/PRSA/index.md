@@ -2,8 +2,8 @@
 title: "Superregular breathers, characteristics of nonlinear stage of modulation instability induced by higher-order effects"
 authors:
 - admin
-- Wang, Lei
-- Liu, Chong
+- Wang Lei
+- Liu Chong
 date: "2017-02-03T00:00:00Z"
 doi: ""
 
