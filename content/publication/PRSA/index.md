@@ -17,7 +17,7 @@ publishDate: "2017-02-03T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 1*(1)"
+publication: "*Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 473*(2199): 20160681"
 publication_short: ""
 
 abstract: We study the higher-order generalized nonlinear Schrödinger (NLS) equation describing the propagation of ultrashort optical pulse in optical ﬁbres. By using Darboux transformation, we derive the superregular breather solution that develops from a small localized perturbation. This type of solution can be used to characterize the nonlinear stage of the modulation instability (MI) of the condensate. 
