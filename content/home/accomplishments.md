@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Beijing Physics Society"
+  organization_url = "http://www.bjwlxh.cn/Ch/Index.asp"
+  title = "National Third Prize in 31st China Undergraduate Physics Tournament"
+  url = ""
+  certificate_url = 
+  date_start = "2014-12-21"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
