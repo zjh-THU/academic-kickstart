@@ -1,13 +1,15 @@
 ---
-title: "Breather-to-soliton transitions, nonlinear wave interactions, and modulational instability in a higher-order generalized nonlinear Schr?dinger equation"
+title: "Breather transition dynamics, Peregrine combs and walls, and modulation instability in a variable-coefficient nonlinear Schrodinger equation with higher-order effects"
 authors:
 - admin
-- Robert Ford
-date: "2015-09-26T00:00:00Z"
+- Lei Wang
+- Chong Liu
+- et al
+date: "2016-03-11T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-12-20T00:00:00Z"
+publishDate: "2016-06-16T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +18,13 @@ publishDate: "2015-12-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review E 93*(1): 012214"
+publication: "*Physical Review E 93*(6): 062217"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We study a variable-coefﬁcient nonlinear Schrodinger (vc-NLS) equation with higher-order effects. We show that the breather solution can be converted into four types of nonlinear waves on constant backgrounds including the multipeak solitons, antidark soliton, periodic wave, and W-shaped soliton. In particular, the transition condition requiring the group velocity dispersion (GVD) and third-order dispersion (TOD) to scale linearly is obtained analytically. We display several kinds of elastic interactions between the transformed nonlinear waves. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -31,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://journals.aps.org/pre/pdf/10.1103/PhysRevE.93.062217
 url_code: ''
 url_dataset: ''
 url_poster: ''
