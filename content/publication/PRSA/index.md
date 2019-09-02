@@ -17,13 +17,13 @@ publishDate: "2017-02-03T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences"
+publication: "*Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 1*(1)"
 publication_short: ""
 
 abstract: We study the higher-order generalized nonlinear Schrödinger (NLS) equation describing the propagation of ultrashort optical pulse in optical ﬁbres. By using Darboux transformation, we derive the superregular breather solution that develops from a small localized perturbation. This type of solution can be used to characterize the nonlinear stage of the modulation instability (MI) of the condensate. In particular, we show some novel characteristics of the nonlinear stage of MI arising from higherorder effects: (i) coexistence of a quasi-Akhmediev breather and a multipeak soliton; (ii) two multipeak solitons propagation in opposite directions; (iii) a beating pattern followed by two multipeak solitons in the same direction. It is found that these patterns generated from a small localized perturbation do not have the analogues in the standard NLS equation. Our results enrich Zakharov’s theory of superregular breathers and could provide helpful insight on the nonlinear stage of MI in presence of the higherorder effects.
 
 # Summary. An optional shortened abstract.
-summary: Superregular breather solution that develops from a small localized perturbation based on the higher-order generalized nonlinear Schrödinger (NLS) equation.
+summary: Superregular breather solution that develops from a small localized perturbation based on the higher-order generalized nonlinear Schrödinger equation.
 
 tags:
 - Source Themes
