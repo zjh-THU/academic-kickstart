@@ -1,12 +1,12 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Supercritical CO2-Allam Cycle and Combustion
+summary: Allam Cycle is a new type of Brayton Cycle that uses supercritical CO2(sCO2)as working medium and is directly heated by combustion of gaseous fuel and pure oxygen.
 tags:
-- Demo
+- Fluid&Combustion
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: http://www.pcsee.org/EN/abstract/abstract31492.shtml
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
