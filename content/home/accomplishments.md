@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = 
   date_start = "2015-09-01"
   date_end = ""
-  description = ""
+  description = "Energy-saving pumping unit based on flexible mechanism."
 
 [[item]]
   organization = "COMAP"
