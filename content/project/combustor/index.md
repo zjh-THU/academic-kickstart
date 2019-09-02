@@ -1,9 +1,9 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: 300MW gas turbine combustor nozzle
+summary: Chinese Gas Turbine Major Project: provided uniform criterion for ignition test based on the accomplishment of database and analysis, developed semianalytical correlations for NOx and CO emissions
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+- Fluid and Combustion
+date: "2019-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: http://example.org
