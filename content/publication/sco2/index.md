@@ -1,13 +1,15 @@
 ---
-title: "Breather-to-soliton transitions, nonlinear wave interactions, and modulational instability in a higher-order generalized nonlinear Schr?dinger equation"
+title: "Review on Supercritical CO2-Allam Cycle and Combustion Research (in Chinese)"
 authors:
 - admin
-- Robert Ford
-date: "2015-09-26T00:00:00Z"
+- Zhang Zijun
+- Hu Yu
+- et al
+date: "2019-01-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-12-20T00:00:00Z"
+publishDate: "2019-07-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +18,13 @@ publishDate: "2015-12-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review E 93*(1): 012214"
+publication: "*Proceeding of the CSEE, 39*(14): 4172-4188"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Allam cycle is a new type of Brayton Cycle that uses supercritical CO2(sCO2)as working medium and is directly heated by combustion of gaseous fuel and pure oxygen. In order to grasp the newest R&D progress on Allam cycle at home and abroad, different issues such as basic principles, economics, properties of cycle fluid, basic combustion characteristics and material corrosion were reviewed in this paper. It is shown that the power efficiency of Allam cycle under working pressure of 30MPa and the turbine inlet temperature of 1100C is 2.3 percentage points higher than the existing F-class gas turbine natural gas combined cycle. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -31,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: http://www.pcsee.org/EN/article/downloadArticleFile.do?attachType=PDF&id=31492
 url_code: ''
 url_dataset: ''
 url_poster: ''
