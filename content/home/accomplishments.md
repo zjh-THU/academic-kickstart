@@ -57,4 +57,14 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = ""
   description = ""
+  
+  [[item]]
+  organization = "Beijing Municipal Commission of Education"
+  organization_url = ""
+  title = "First Prize in 8th Mechanical Innovation Design Competition for College Student in Beijing"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-05-01"
+  date_end = ""
+  description = "Large-capacity coin sorting and packaging device"
 +++
