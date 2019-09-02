@@ -1,13 +1,15 @@
 ---
-title: "Breather-to-soliton transitions, nonlinear wave interactions, and modulational instability in a higher-order generalized nonlinear Schr?dinger equation"
+title: "Comparative study on synergistic effects in co-pyrolysis of tobacco stalk with polymer wastes: Thermal behavior, gas formation, and kinetics"
 authors:
+- Rongjie Chen
 - admin
-- Robert Ford
-date: "2015-09-26T00:00:00Z"
+- Liyong Lun
+- et al
+date: "2019-06-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-12-20T00:00:00Z"
+publishDate: "2019-08-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +18,13 @@ publishDate: "2015-12-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review E 93*(1): 012214"
+publication: "*Bioresource technology*, 121970"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Co-pyrolysis of tobacco stalk (TS) with diﬀerent types of polymer wastes such as scrap tire (ST), polypropylene (PP) and polyvinyl chloride (PVC) was investigated. Thermogravimetric analyzer coupled with Fourier transform infrared spectrometer was carried out to examine the thermochemical properties, kinetics, and gas generation. The results of the co-pyrolysis showed a synergistic eﬀect compared to the pyrolysis of the individual components. When using TS/ST co-pyrolysis, the reduction in char residue was about 6% (dry wt. basis) and the increase in organic gases exceeded 20%. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -31,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0960852419312003/pdfft?md5=085e6f2766b09a5c8073a96f7f0f5aac&pid=1-s2.0-S0960852419312003-main.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
