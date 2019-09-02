@@ -48,6 +48,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "COMAP"
+  organization_url = "https://www.comap.com/undergraduate/contests/"
+  title = "Honorable Mention in COMAP's Mathematical Contest in Modeling"
+  url = ""
+  certificate_url = 
+  date_start = "2016-01-01"
+  date_end = ""
+  description = ""
+
 # [[item]]
 #  organization = "Coursera"
 #  organization_url = "https://www.coursera.org"
