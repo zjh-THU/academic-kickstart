@@ -30,6 +30,6 @@ subtitle = ""
   icon = "language"
   icon_pack = "fas"
   name = "Language"
-  description = "Chinese (Native), English (IELTS 6.5)"
+  description = "Chinese (Native), English (IELTS 7)"
 
 +++
