@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Zhang is a postgraduate student of Energy Engineering at [Tsinghua University](http://www.te.tsinghua.edu.cn/publish/teen/index.html). His research interests include *fuel cells & batteries*, *Fluid Mechanics* and *Nonlinear Dynamics*. His current work focus on how microjets improve combustion stability under flameout limit in combustion chamber and utilizing machine learning to establish the substitution model. 
+Zhang is a postgraduate student of Energy Engineering at [Tsinghua University](http://www.te.tsinghua.edu.cn/publish/teen/index.html). His research interests include *fuel cells & batteries*, *fluid mechanics* and *nonlinear dynamics*. His current work focus on how microjets improve combustion stability under flameout limit in combustion chamber and utilizing machine learning to establish the substitution model. 
 
 Previously, he has finished the database and analysis of combustor nozzle test in Chinese Gas Turbine Major Project. During college, he studied nonlinear waves and modulational instability based on nonlinear Schrödinger equations. He specializes in the combination of physical understanding, mathematical modeling and programming to solve physics and engineering problems.
 
