@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include solid oxide fuel cell(SOFC), fluid mechanics and nonlinear.
+bio: My research interests include fuel cell, fluid mechanics, nonlinear.
 
 interests:
 - New Energy Power Generation
 - Combustion Physics
 - Nonlinear Dynamics
+- Microfluidics
 
 education:
   courses:
@@ -70,9 +71,9 @@ user_groups:
 - Visitors
 ---
 
-Zhang is a postgraduate student of Energy Engineering at [Tsinghua University](http://www.te.tsinghua.edu.cn/publish/teen/index.html). His research interests include *fuel cells & batteries*, *fluid mechanics* and *nonlinear dynamics*. His current work focus on how microjets improve combustion stability under flameout limit in combustion chamber and utilizing machine learning to establish the substitution model. 
+Zhang is a postgraduate student of Energy Engineering at [Tsinghua University](http://www.te.tsinghua.edu.cn/publish/teen/index.html). His research interests include *fuel cells & batteries*, *fluid mechanics* and *nonlinear dynamics*. His current work focus on how microjets control in a swirler. 
 
-Previously, he has finished the database and analysis of combustor nozzle test in Chinese Gas Turbine Major Project. During college, he studied nonlinear waves and modulational instability based on nonlinear Schrödinger equations. He specializes in the combination of physical understanding, mathematical modeling and programming to solve physics and engineering problems.
+Previously, he has finished the database and analysis of a nozzle test. During college, he studied nonlinear waves and modulational instability based on nonlinear Schrödinger equations. He specializes in the combination of physical understanding, mathematical modeling and programming to solve physics and engineering problems.
 
 When he was in high school, winterly haze enveloped some cities in China, including his hometown. Under the inspiration from his father, a coal mine engineer, he decided to devote himself to clean energy. On holidays, he went underground in a kilometer-deep mine or climbed to the top of a circulating fluidized bed boiler. During graduate vacations, he investigated the production of batteries in Contemporary Amperex Technology Co. Limited, investigated the natgas shortage issue in Hebei province and studied biomass pyrolysis as well as supercritical CO2 cycle.
 
