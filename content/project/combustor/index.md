@@ -1,5 +1,5 @@
 ---
-title: 300MW Gas Turbine Combustor Nozzle
+title: Combustor Nozzle
 summary: Provided uniform criterion for ignition test based on the accomplishment of database and analysis, developed semianalytical correlations for NOx and CO emissions.
 tags:
 - Fluid and Combustion
