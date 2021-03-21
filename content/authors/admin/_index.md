@@ -75,5 +75,3 @@ Zhang is a postgraduate student of Energy Engineering at [Tsinghua University](h
 
 When he was in high school, winterly haze enveloped some cities in China, including his hometown. Under the inspiration from his father, a coal mine engineer, he decided to devote himself to clean energy. On holidays, he went underground in a kilometer-deep mine or climbed to the top of a circulating fluidized bed boiler. During graduate vacations, he investigated the production of batteries in Contemporary Amperex Technology Co. Limited, investigated the natgas shortage issue in Hebei province and studied biomass pyrolysis as well as supercritical CO2 cycle.
 
-His dream: a hydrogen powered world, sustainable and pollution-free.
-
