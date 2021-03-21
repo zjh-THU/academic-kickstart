@@ -18,12 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "University College London(UCL)"
+  company = "Ph.D in Mechanical Engineering"
+  company_url = ""
+  location = "London"
+  date_start = "2020-09-29"
+  date_end = ""
+  description = """
+* Full scholarship: Overseas Research and Graduate Research Scholarship(ORS&GRS)
+* Nanoengineered Systems Lab
+  """
+
+[[experience]]
   title = "Tsinghua University"
   company = "MPhil in Power Engineering and Engineering Thermodynamics"
   company_url = ""
   location = "Beijing"
   date_start = "2017-09-01"
-  date_end = ""
+  date_end = "2020-07-01"
   description = """
 * Postgraduate recommendation
 * Key Laboratory of Thermal Science and Power Engineering, Ministry of Education
