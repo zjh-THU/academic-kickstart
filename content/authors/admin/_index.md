@@ -15,7 +15,7 @@ role: Ph.D Student of Mechanical Engineering
 # Organizations/Affiliations
 organizations:
 - name: University College London
-  url: ""
+  url: "https://mecheng.ucl.ac.uk/nano/people/profile/jinhui-zhang/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Nanoengineering, Thermal Engineering and Energy.
