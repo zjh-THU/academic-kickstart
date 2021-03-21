@@ -10,24 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Postgraduate Student of Energy Engineering
+role: Ph.D Student of Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Tsinghua University
+- name: University College London
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include fuel cell, fluid mechanics, nonlinear.
+bio: My research interests include Nanoengineering, Thermal Engineering and Energy.
 
 interests:
-- New Energy Power Generation
+- Superhydrophobicity
 - Combustion Physics
-- Nonlinear Dynamics
-- Microfluidics
+- Nonlinear Photonics
 
 education:
   courses:
+  - course: Ph.D in Mechanical Engineering
+    institution: University College London
+    year: 2020
   - course: MPhil in Power Engineering and Engineering Thermodynamics 
     institution: Tsinghua University
     year: 2017
@@ -42,13 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:zjh17@mails.tsinghua.edu.cn"  # For a direct email link, use "zjh17@mails.tsinghua.edu.cn".
+  link: "mailto:ucemjz5@ucl.ac.uk"  # For a direct email link, use "ucemjz5@ucl.ac.uk".
 # - icon: twitter
 # icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+ - icon: google-scholar
+   icon_pack: ai
+   link: https://scholar.google.com/citations?user=BQw3_wkAAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
   link: https://github.com/zjh-THU
@@ -62,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "zjh17@mails.tsinghua.edu.cn"
+email: "ucemjz5@ucl.ac.uk"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -71,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Zhang is a postgraduate student of Energy Engineering at [Tsinghua University](http://www.te.tsinghua.edu.cn/publish/teen/index.html). His research interests include *fuel cells & batteries*, *fluid mechanics* and *nonlinear dynamics*. His current work focus on how microjets control in a swirler. Previously, he has finished the database and analysis of a nozzle test. During undergraduate phase, he studied nonlinear waves and modulational instability based on nonlinear Schrödinger equations. 
+Zhang is a Ph.D of Mechanical Engineering at [University College London](https://mecheng.ucl.ac.uk/nano/people/profile/jinhui-zhang/). His research interests focus on nanoengineered surfaces for photonics applications. He joined NSL(Nanoengineered Systems Lab) in 2020 after winning UCL’s highly competitive Overseas Research and Graduate Research Scholarship. Before that, Jianhui finished studies from Tsinghua University in China. 
