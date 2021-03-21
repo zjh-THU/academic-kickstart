@@ -72,4 +72,3 @@ user_groups:
 ---
 
 Zhang is a postgraduate student of Energy Engineering at [Tsinghua University](http://www.te.tsinghua.edu.cn/publish/teen/index.html). His research interests include *fuel cells & batteries*, *fluid mechanics* and *nonlinear dynamics*. His current work focus on how microjets control in a swirler. Previously, he has finished the database and analysis of a nozzle test. During undergraduate phase, he studied nonlinear waves and modulational instability based on nonlinear Schrödinger equations. 
-
