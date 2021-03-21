@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Zhang is a Ph.D of Mechanical Engineering at [University College London](https://mecheng.ucl.ac.uk/nano/people/profile/jinhui-zhang/). His research interests focus on nanoengineered surfaces for photonics applications. He joined NSL(Nanoengineered Systems Lab) in 2020 after winning UCL’s highly competitive Overseas Research and Graduate Research Scholarship. Before that, Jianhui finished studies from Tsinghua University in China. 
+Zhang is a Ph.D student of Mechanical Engineering at [University College London](https://mecheng.ucl.ac.uk/nano/people/profile/jinhui-zhang/). His research interests focus on nanoengineered surfaces for photonics applications. He joined NSL(Nanoengineered Systems Lab) in 2020 after winning UCL’s highly competitive Overseas Research and Graduate Research Scholarship. Before that, Jianhui finished studies from Tsinghua University in China. 
