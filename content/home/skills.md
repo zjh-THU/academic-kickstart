@@ -24,7 +24,7 @@ subtitle = ""
   icon = "toolbox"
   icon_pack = "fas"
   name = "Tools"
-  description = "ANSYS, OpenFOAM, AutoCAD, Origin, LaTex"  
+  description = "ANSYS, OpenFOAM, AutoCAD, Origin,LaTex"  
   
 [[feature]]
   icon = "language"
