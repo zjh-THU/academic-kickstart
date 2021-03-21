@@ -24,12 +24,12 @@ subtitle = ""
   icon = "toolbox"
   icon_pack = "fas"
   name = "Tools"
-  description = "ANSYS, OpenFOAM, LAMMPS, AutoCAD, Origin, MS Office, LaTex"  
+  description = "ANSYS, OpenFOAM, AutoCAD, Origin, LaTex"  
   
 [[feature]]
   icon = "language"
   icon_pack = "fas"
   name = "Language"
-  description = "Chinese (Native), English (IELTS 7)"
+  description = "Chinese (Native), English"
 
 +++
