@@ -58,9 +58,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "zjh17@mails.tsinghua.edu.cn"
-phone = "+86 13264459297"
-address = "Lee shau kee technology building, Tsinghua University, Beijing, 100084, China"
+email = "ucemjz5@ucl.ac.uk"
+phone = "44-7410582191(UK) +86-13264459297(China)"
+address = "UCL Mechanical Engineering, University College London, Torrington Place, London, WC1E7JE, UK"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -93,10 +93,10 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 3
+map = 1
 map_api_key = ""
-latitude = "39.995315"
-longitude = "116.323296"
+latitude = "51.52309711575286"
+longitude = "-0.13226978821610688"
 zoom = 15
 
 ############################48.37598  129.49291
