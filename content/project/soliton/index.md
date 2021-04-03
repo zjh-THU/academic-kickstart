@@ -1,5 +1,5 @@
 ---
-title: Solition, Breather and Modulation Instability
+title: Soliton, Breather and Modulation Instability
 summary: Nonlinear waves described by nonlinear Schrödinger equation. We derived the superregular breather solution that develops from a small localized perturbation, which provide helpful insight on the nonlinear stage of modulation instability of the condensate.
 
 tags:
