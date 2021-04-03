@@ -26,7 +26,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 * Full scholarship: Overseas Research and Graduate Research Scholarship(ORS&GRS)
-* Nanoengineered Systems Lab
+* Nanoengineered Systems Lab(Prof. Tiwari, Manish)
+* Wellcome/EPSRC Centre for Interventional & Surgical Sciences (WEISS)
   """
 
 [[experience]]
