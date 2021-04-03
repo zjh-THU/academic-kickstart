@@ -21,9 +21,11 @@ organizations:
 bio: My research interests include Nanoengineering, Thermal Engineering and Energy.
 
 interests:
+- Nanotechnology
 - Superhydrophobicity
-- Combustion Physics
-- Nonlinear Photonics
+- Anti-icing and icephobicity
+- Combustion
+- Photonics
 
 education:
   courses:
