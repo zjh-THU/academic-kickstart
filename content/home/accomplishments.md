@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2015-09-01"
   date_end = ""
-  description = "Energy-saving pumping unit based on flexible mechanism."
+  description = ""
 
 [[item]]
   organization = "COMAP"
@@ -66,5 +66,5 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2016-05-01"
   date_end = ""
-  description = "Large-capacity coin sorting and packaging device"
+  description = ""
 +++
