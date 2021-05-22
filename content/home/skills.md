@@ -24,7 +24,7 @@ subtitle = ""
   icon = "toolbox"
   icon_pack = "fas"
   name = "Tools"
-  description = "ANSYS, OpenFOAM, COMSOL, LAMMPS"  
+  description = "ANSYS, OpenFOAM, COMSOL, LAMMPS, Gaussian"  
   
 [[feature]]
   icon = "language"
