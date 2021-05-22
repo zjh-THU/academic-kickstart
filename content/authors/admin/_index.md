@@ -53,9 +53,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=BQw3_wkAAAAJ&hl=zh-CN
-- icon: github
-  icon_pack: fab
-  link: https://github.com/zjh-THU
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/zjh-THU
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Jianhui_Zhang18
