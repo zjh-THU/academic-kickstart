@@ -8,9 +8,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 160
+weight: 10
 
-title: Gallery
+title: Welcome
 subtitle:
 
 design:
@@ -30,5 +30,4 @@ advanced:
 
 Welcome to the fantasy world of **小徽章**.
 
-[Follow my twitter](https://twitter.com/JianhuiZhang7?s=09)
 
