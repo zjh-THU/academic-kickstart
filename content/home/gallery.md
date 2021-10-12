@@ -2,7 +2,8 @@
 # An instance of the Blank widget with a Gallery page element.
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
-
+# Activate this widget? true/false
+active: true
 # This file represents a page section.
 headless: true
 
@@ -13,7 +14,7 @@ title: Gallery
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: coders.jpg
     image_darken: 0
