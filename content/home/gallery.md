@@ -26,11 +26,9 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
+Welcome to the fantasy world of **小徽章**.
 
-[Explore similar templates](https://wowchemy.com/templates/)
+[Follow my twitter](https://twitter.com/JianhuiZhang7?s=09)
 
-**Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
 
-**[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
 
