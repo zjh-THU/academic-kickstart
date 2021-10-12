@@ -15,15 +15,6 @@ subtitle:
 
 design:
   columns: "2"
-  background:
-    image: sky.jpg
-    image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size: cover
-    text_color_light: true
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
 ---
 
 Welcome to the fantasy world of **小徽章**.
