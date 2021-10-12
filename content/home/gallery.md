@@ -7,13 +7,13 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 160
+weight: 88
 
 title: Gallery
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: coders.jpg
     image_darken: 0
@@ -23,6 +23,5 @@ design:
     text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
-advanced:
-  css_class: fullscreen
+    
 ---
