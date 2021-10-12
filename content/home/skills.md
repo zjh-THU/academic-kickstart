@@ -18,7 +18,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Programming"
-  description = "Python, MATLAB, R, Mathematica, Fortran"
+  description = "Python, MATLAB, R, Mathematica, Fortran, Tensorflow"
   
 [[feature]]
   icon = "toolbox"
