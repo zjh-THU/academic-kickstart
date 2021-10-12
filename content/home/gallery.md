@@ -30,4 +30,5 @@ Welcome to the fantasy world of **小徽章**.
 
 [Follow my twitter](https://twitter.com/JianhuiZhang7?s=09)
 
-{{< figure src="Edinburgh-beach.jpg" id="Edinburgh" >}}.
+{{< figure src="Edinburgh-beach.jpg" id="Edinburgh" >}}
+{{< figure src="Edinburgh-beach2.jpg" id="Edinburgh" >}}
