@@ -16,14 +16,14 @@ subtitle:
 design:
   columns: "2"
   background:
-    image: sky.jpg
+    image: gallary.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["80px", "0", "80px", "0"]
+    padding: ["100px", "0", "100px", "0"]
 advanced:
   css_class: fullscreen
 ---
