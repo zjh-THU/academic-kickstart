@@ -14,7 +14,7 @@ title: Gallery
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: sky.jpg
     image_darken: 0
