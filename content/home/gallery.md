@@ -14,7 +14,7 @@ title: Gallery
 subtitle:
 
 design:
-  columns: "2"
+  columns: "1"
   background:
     image: coders.jpg
     image_darken: 0
@@ -26,3 +26,5 @@ design:
     padding: ["20px", "0", "20px", "0"]
     
 ---
+
+1231231
