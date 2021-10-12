@@ -28,6 +28,6 @@ advanced:
   css_class: fullscreen
 ---
 
-Welcome to the fantasy world of **小徽章**.
+"There is only one herosim in the world : to see the world as it is, and to love it." -**Romain Rolland**
 
 
