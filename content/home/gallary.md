@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 160
 
-title: Gallary
+title: Gallery
 subtitle:
 
 design:
