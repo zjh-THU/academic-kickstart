@@ -18,14 +18,14 @@ organizations:
   url: "https://mecheng.ucl.ac.uk/nano/people/profile/jinhui-zhang/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Nanoengineering, Thermal Engineering and Energy.
+bio: My research interests include Nanoengineering for healthcare and Energy.
 
 interests:
 - Nanotechnology
 - Superhydrophobicity
-- Anti-icing and icephobicity
-- Combustion
-- Photonics
+- 3D printing
+- Wearable sensors and AI
+
 
 education:
   courses:
