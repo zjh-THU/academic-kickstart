@@ -26,8 +26,8 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "Nonlinear"
-     tag = "Nonlinear"
+     name = "Nonlinear physics"
+     tag = "Nonlinear physics"
   
    [[content.filter_button]]
      name = "Fluid and Combustion"
